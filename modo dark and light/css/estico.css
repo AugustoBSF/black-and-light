@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+}
+
+.claro {
+    background: linear-gradient(cyan, red);
+}
+
+.escuro {
+    background: linear-gradient(darkblue, black);
+
+}
+
+
+
+
+
+
+
+
+
+.central button {
+    background: rgba(255, 255, 255, 0);
+    display: flex;
+    float: right;
+    align-items: center;
+    gap: 100px;
+    border-radius: 27px;
+    border: none;
+}
+
+img {
+    width: 120px;
+    
+}
